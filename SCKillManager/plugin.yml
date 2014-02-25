@@ -1,0 +1,10 @@
+name: SimpleClansKillManager
+version: 1.0.6
+author: aplicable
+main: me.aplicable.sckm.SCKillManager
+description: An add-on for SimpleClans that offers additional management to player-kills and offeres monetary rewards.
+commands:
+  bounty:
+    description: Displays the money received from killing certain players
+  killentities:
+    description: Allows you to kill all entities if you are aplicable

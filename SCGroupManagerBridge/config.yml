@@ -1,0 +1,28 @@
+#[[DefaultGroups]]
+#default_group is the group that all non-clan players will be set to (not including operators etc.)
+
+default_group: x
+
+#default_leader_group is the group that all clan-leaders will be set to (not including operators etc.)
+
+default_leader_group: x
+
+#[[Permissable Groups]]
+#These are the groups that clan-leaders will be allowed to assign to other clan members.
+
+#list the groups in the following format:
+#group_1: groupname
+#group_2: groupname
+#group_3: groupname
+
+#NOTE: if you skip a number it will not register any further numbers IE: if you go 1,2,4,5,6,7 it will not include 4 through 7
+
+#[[Operator Groups]]
+#These are the groups that will be able to change the group of players in a clan.
+
+#list the groups in the following format:
+#operator_1: groupname
+#operator_2: groupname
+#operator_3: groupname
+
+#NOTE: if you skip a number it will not register any further numbers IE: if you go 1,2,4,5,6,7 it will not include 4 through 7

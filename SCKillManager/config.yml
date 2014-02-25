@@ -1,0 +1,39 @@
+#[[Database Info]]
+host: x
+username: x
+password: x
+database: x
+
+#[[KillManager Switches]]
+implement_killstreaks: true
+implement_killstreak_stealing: true
+implement_deathpenalty: false
+incorporate_kdr: true
+incorporate_ranks: true
+friendly_fire: false
+
+#[[KillManager Constants]]
+base_kill_reward: 100
+base_death_penalty: 50
+default_killstreak_reward: 100
+default_group_reward: 0
+
+#[[Killstreak Management]]
+min_killstreak: 3
+max_killstreak: 10
+
+#type the following:
+#bonus_3: xxx
+#bonus_4: xxx
+#bonus_5: xxx
+#etc.
+
+#[[Group Management]]
+
+#type the following for each group:
+#group_groupname: money for killing
+#EXAMPLE:
+#group_mafiaboss: 1000
+#group_peasant: 50
+#etc
+

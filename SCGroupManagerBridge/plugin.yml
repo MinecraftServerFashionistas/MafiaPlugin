@@ -1,0 +1,8 @@
+name: SimpleClansGroupManagerBridge
+version: 1.0
+author: aplicable
+main: me.aplicable.scgmb.SCGMBridge
+description: An add-on for SimpleClans that enhances group management for clan owners.
+commands:
+  mafia:
+    description: using the setrank command from mafia allows you to set a users rank using groupmanager from a simpleclans standpoint.
